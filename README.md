@@ -1,2 +1,2 @@
-# SQLCommend
+# SQLCommand
 SQL常用命令
